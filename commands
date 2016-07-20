@@ -1,0 +1,32 @@
+IMU RAZOR LAUNCh:
+With graphics:
+roslaunch razor_imu_9dof razor-pub-and-display.launch
+
+without graphics:
+roslaunch razor_imu_9dof razor-pub.launch
+
+/dev/ttyUSB0
+
+
+GPS :
+
+rosrun nmea_navsat_driver nmea_serial_driver _port:=/dev/ttyUSB1 _baud:=4800
+
+
+after catkin_make , type this command
+
+
+source devel/setup.bash
+
+
+LIDAR:
+
+roslaunch rplidar_ros view_rplidar.launch
+
+rosserial
+
+rosrun rosserial_python serial_node.py /dev/ttyACM0
+
+
+ROS Kinect
+roslaunch freenect_launch freenect.launch
