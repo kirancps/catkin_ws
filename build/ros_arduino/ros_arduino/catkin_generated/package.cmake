@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_arduino")
+set(ros_arduino_MAINTAINER "Tony Baltovski <tony.baltovski@gmail.com>")
+set(ros_arduino_DEPRECATED "")
+set(ros_arduino_VERSION "0.0.0")
+set(ros_arduino_BUILD_DEPENDS )
+set(ros_arduino_RUN_DEPENDS )
+set(ros_arduino_BUILDTOOL_DEPENDS "catkin")

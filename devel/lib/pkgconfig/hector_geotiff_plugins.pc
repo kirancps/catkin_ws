@@ -1,0 +1,8 @@
+prefix=/home/designer/catkin_ws/devel
+
+Name: hector_geotiff_plugins
+Description: Description of hector_geotiff_plugins
+Version: 0.3.4
+Cflags: 
+Libs: -L/home/designer/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/designer/catkin_ws/devel
+
+Name: odom_ex
+Description: Description of odom_ex
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/designer/catkin_ws/devel/lib 
+Requires: 

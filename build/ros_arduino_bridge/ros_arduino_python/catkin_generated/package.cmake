@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ros_arduino_python")
+set(ros_arduino_python_MAINTAINER "Patrick Goebel <patrick@pirobot.org>")
+set(ros_arduino_python_DEPRECATED "")
+set(ros_arduino_python_VERSION "0.2.0")
+set(ros_arduino_python_BUILD_DEPENDS )
+set(ros_arduino_python_RUN_DEPENDS "rospy" "std_msgs" "sensor_msgs" "geometry_msgs" "nav_msgs" "tf" "ros_arduino_msgs" "python-serial")
+set(ros_arduino_python_BUILDTOOL_DEPENDS "catkin")

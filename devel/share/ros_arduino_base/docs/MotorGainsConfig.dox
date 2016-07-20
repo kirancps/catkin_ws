@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~K_P" : \b [double] Motor Proportional Gain min: 0.0, default: 180.0, max: 1000.0
+- \b "~K_I" : \b [double] Motor Integral Gain min: 0.0, default: 5.0, max: 1000.0
+- \b "~K_D" : \b [double] Motor Derivative Gain min: 0.0, default: 15.0, max: 1000.0
+

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "odom_ex")
+set(odom_ex_MAINTAINER "designer <designer@todo.todo>")
+set(odom_ex_DEPRECATED "")
+set(odom_ex_VERSION "0.0.0")
+set(odom_ex_BUILD_DEPENDS "nav_msgs" "tf" "geometry_msgs" "roscpp" "rospy")
+set(odom_ex_RUN_DEPENDS "nav_msgs" "roscpp" "rospy" "geometry_msgs" "tf")
+set(odom_ex_BUILDTOOL_DEPENDS "catkin")

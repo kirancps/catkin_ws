@@ -1,0 +1,8 @@
+prefix=/home/designer/catkin_ws/install
+
+Name: ros_arduino_base
+Description: Description of ros_arduino_base
+Version: 0.0.0
+Cflags: -I/home/designer/catkin_ws/install/include
+Libs: -L/home/designer/catkin_ws/install/lib -lros_arduino_base
+Requires: roscpp geometry_msgs ros_arduino_msgs tf dynamic_reconfigure

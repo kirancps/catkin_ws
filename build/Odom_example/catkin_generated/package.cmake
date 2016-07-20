@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "Odom_example")
+set(Odom_example_MAINTAINER "designer <designer@todo.todo>")
+set(Odom_example_DEPRECATED "")
+set(Odom_example_VERSION "0.0.0")
+set(Odom_example_BUILD_DEPENDS "nav_msgs" "roscpp" "rospy")
+set(Odom_example_RUN_DEPENDS "nav_msgs" "roscpp" "rospy")
+set(Odom_example_BUILDTOOL_DEPENDS "catkin")
